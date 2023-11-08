@@ -78,7 +78,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "/public/avatar1.png",
+  LOGO_URL: "https://pic.wyiyy.eu.org/file/45b1c1a95d88145c2157f.png",
   /**
    * 个人 Github 链接
    */
