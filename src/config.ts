@@ -78,7 +78,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
+  LOGO_URL: "/public/avatar1.png",
   /**
    * 个人 Github 链接
    */
