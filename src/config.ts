@@ -47,7 +47,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: null,
+  LOGO_URL: https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png,
   /**
    * 个人 Github 链接
    */
@@ -59,9 +59,9 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
-  ICP_URL: "https://beian.miit.gov.cn/",
-  FOOTER_INFO: true,
+  ICP: "",
+  ICP_URL: "",
+  FOOTER_INFO: false,
   /**
    * 网站欢迎标语
    */
@@ -88,9 +88,9 @@ const GLOBAL_CONFIG = {
    * 网站 Title Keywords Description 的配置，用于 SEO
    */
   TKD: {
-    title: "My Blog Index",
-    keywords: "Blog, Index, Index Page",
-    description: "This is my personal blog index page.",
+    title: "就是这样的烂诗人",
+    keywords: "就是这样的烂诗人,Blog, 泪眼之前",
+    description: "在泪眼之前，忍住不哭.",
   },
 };
 
