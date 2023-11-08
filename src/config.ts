@@ -8,7 +8,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
   {
     sortId: 1,
     title: "博客-Notion-Vercel",
-    url: "http://www.wpot.top/",
+    url: "https://www.wpot.top/",
     icon: "",
     color: "#0171CD",
   },
@@ -39,11 +39,11 @@ const GLOBAL_CONFIG = {
   /**
    * 博客名称
    */
-  BLOG_NAME: "EsunR-Blog",
+  BLOG_NAME: "就是这样的烂诗人",
   /**
    * 个人博客链接
    */
-  BLOG_URL: "https://blog.esunr.xyz",
+  BLOG_URL: "https://www.wpot.top/",
   /**
    * 指定中心 LOGO 图片地址
    */
