@@ -24,17 +24,38 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "http://wyiyy.eu.org/",
     icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
   },
-    {
+       {
+    sortId: 1,
+    title: "博客-Gridea-CloudflarePages",
+    url: "http://aal.hr/",
+    icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
+  },
+  {
     sortId: 1,
     title: "博客-Gridea-Vercel",
     url: "http://yiyy.eu.org/",
     icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
   },
-      {
-    sortId: 1,
-    title: "博客-Gridea-Vercel",
-    url: "http://aal.hr/",
-    icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
+  {
+    sortId: 2,
+    title: "图床",
+    url: "https://pic.wyiyy.eu.org/",
+    icon: "",
+    color: "#0171CD",
+  },
+    {
+    sortId: 2,
+    title: "OneDrive网盘",
+    url: "https://od.wyy.pp.ua/",
+    icon: "",
+    color: "#0171CD",
+  },
+    {
+    sortId: 2,
+    title: "导航",
+    url: "https://dh.wyy.pp.ua/",
+    icon: "",
+    color: "#0171CD",
   },
   {
     sortId: 3,
