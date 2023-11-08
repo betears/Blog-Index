@@ -36,6 +36,18 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "http://yiyy.eu.org/",
     icon: "https://pic.wyiyy.eu.org/file/45b1c1a95d88145c2157f.png",
   },
+    {
+    sortId: 1,
+    title: "打赌的耳朵-google-blogger",
+    url: "https://blog.wpot.top/",
+    icon: "",
+  },
+      {
+    sortId: 1,
+    title: "就是这样的烂诗人-heliohost",
+    url: "https://one.wpot.top/",
+    icon: "",
+  },
   {
     sortId: 2,
     title: "图床",
