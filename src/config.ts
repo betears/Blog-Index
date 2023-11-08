@@ -7,23 +7,33 @@ const WEBSITE_SORTS: WebsiteSort[] = [
 const WEBSITE_ITEMS: WebsiteItem[] = [
   {
     sortId: 1,
-    title: "就是这样的烂诗人-Notion-Vercel",
+    title: "博客-Notion-Vercel",
     url: "https://www.wpot.top/",
     icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
     color: "#0171CD",
   },
   {
     sortId: 1,
-    title: "就是这样的烂诗人",
-    description: "博客-Notion-Vercel",
+    title: "博客-Notion-Vercel",
     url: "http://www.free.hr/",
     icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
   },
   {
     sortId: 1,
-    title: "就是这样的烂诗人",
-    description: "博客-Notion-Vercel",
+    title: "博客-Notion-Vercel",
     url: "http://wyiyy.eu.org/",
+    icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
+  },
+    {
+    sortId: 1,
+    title: "博客-Gridea-Vercel",
+    url: "http://yiyy.eu.org/",
+    icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
+  },
+      {
+    sortId: 1,
+    title: "博客-Gridea-Vercel",
+    url: "http://aal.hr/",
     icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
   },
   {
