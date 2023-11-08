@@ -17,7 +17,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "博客-Notion-Vercel",
     url: "http://www.free.hr/",
     icon: "https://pic.wyiyy.eu.org/file/45b1c1a95d88145c2157f.png",
-    color: "DDF4FF",
+    color: "#DDF4FF",
   },
   {
     sortId: 1,
@@ -30,7 +30,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     title: "博客-Gridea-CloudflarePages",
     url: "http://aal.hr/",
     icon: "https://pic.wyiyy.eu.org/file/45b1c1a95d88145c2157f.png",
-    color: "74A99C",
+    color: "#74A99C",
   },
   {
     sortId: 1,
