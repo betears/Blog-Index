@@ -7,9 +7,8 @@ const WEBSITE_SORTS: WebsiteSort[] = [
 const WEBSITE_ITEMS: WebsiteItem[] = [
   {
     sortId: 1,
-    title: "就是这样的烂诗人",
+    title: "就是这样的烂诗人-Notion-Vercel",
     url: "https://www.wpot.top/",
-    description: "博客-Notion-Vercel",
     icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
     color: "#0171CD",
   },
