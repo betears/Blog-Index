@@ -9,7 +9,7 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "博客-Notion-Vercel",
     url: "https://www.wpot.top/",
-    icon: "",
+    icon: "https://od.wyy.pp.ua/api/raw/?path=/PIC/avatar.png",
     color: "#0171CD",
   },
   {
