@@ -50,6 +50,12 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "https://one.wpot.top/",
     icon: "",
   },
+        {
+    sortId: 1,
+    title: "今日热点新闻-vercel",
+    url: "https://read.hr/",
+    icon: "",
+  },
   {
     sortId: 2,
     title: "图床",
