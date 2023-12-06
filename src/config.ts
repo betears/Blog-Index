@@ -84,6 +84,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "https://www.esunr.xyz",
     icon: "https://esunr-image-bed.oss-cn-beijing.aliyuncs.com/logo.jpg",
   },
+   {
+    sortId: 3,
+    title: "Sink.Blog",
+    description: "Sink.Blog",
+    url: "https://blog.5ink.cc",
+    icon: "",
+  },
 ];
 
 const GLOBAL_CONFIG = {
