@@ -56,6 +56,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "https://read.hr/",
     icon: "",
   },
+    {
+    sortId: 2,
+    title: "图床",
+    url: "https://pic.wpot.top/",
+    icon: "",
+    color: "#0171CD",
+  },
   {
     sortId: 2,
     title: "图床",
