@@ -19,6 +19,13 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
     color: "#0171CD",
   },
+      {
+    sortId: 1,
+    title: "博客-ghost-digitalPress",
+    url: "https://we.read.hr/",
+    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    color: "#0171CD",
+  },
   {
     sortId: 1,
     title: "博客-Notion-Vercel",
