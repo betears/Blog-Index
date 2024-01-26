@@ -70,6 +70,12 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "https://read.hr/",
     icon: "",
   },
+          {
+    sortId: 1,
+    title: "wordpress-000webhost",
+    url: "https://000.read.hr/",
+    icon: "",
+  },
     {
     sortId: 2,
     title: "图床",
