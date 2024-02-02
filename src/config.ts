@@ -76,6 +76,12 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     url: "https://000.read.hr/",
     icon: "",
   },
+            {
+    sortId: 1,
+    title: "相册-Notion-CFWorkers",
+    url: "https://pic.ail.hr/",
+    icon: "",
+  },
     {
     sortId: 2,
     title: "图床",
