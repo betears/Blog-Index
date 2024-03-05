@@ -9,55 +9,55 @@ const WEBSITE_ITEMS: WebsiteItem[] = [
     sortId: 1,
     title: "博客-Notion-Vercel",
     url: "https://www.wpot.top/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
     color: "#0171CD",
   },
     {
     sortId: 1,
     title: "Xlog-区块链社区博客",
     url: "https://xlog.wpot.top/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
     color: "#0274BF",
   },
     {
     sortId: 1,
     title: "博客-Notionic-Vercel",
     url: "https://b.wpot.top/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
     color: "#0171CD",
   },
       {
     sortId: 1,
     title: "博客-ghost-digitalPress",
     url: "https://we.read.hr/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
     color: "#0171CD",
   },
   {
     sortId: 1,
     title: "博客-Notion-Vercel",
     url: "http://www.free.hr/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
     color: "#DDF4FF",
   },
   {
     sortId: 1,
     title: "博客-Notion-Vercel",
     url: "http://wyiyy.eu.org/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
   },
        {
     sortId: 1,
     title: "博客-Gridea-CloudflarePages",
     url: "http://aal.hr/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
     color: "#74A99C",
   },
   {
     sortId: 1,
     title: "博客-Gridea-Vercel",
     url: "http://yiyy.eu.org/",
-    icon: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+    icon: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
   },
     {
     sortId: 1,
@@ -145,7 +145,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
-  LOGO_URL: "https://pic.wyiyy.eu.org/file/72f018ab8ea99f1aadbf9.png",
+  LOGO_URL: "https://pic.wpot.top/file/72f018ab8ea99f1aadbf9.png",
   /**
    * 个人 Github 链接
    */
