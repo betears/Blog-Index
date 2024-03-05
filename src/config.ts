@@ -153,7 +153,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "/public/back.jpg",
+  BACKGROUND_IMG_URL: "https://pic.wpot.top/file/8117f5125c74762cc63ff.jpg",
   /**
    * ICP 备案号，留空不显示
    */
