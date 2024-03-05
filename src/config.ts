@@ -153,7 +153,7 @@ const GLOBAL_CONFIG = {
   /**
    * 背景图片地址
    */
-  BACKGROUND_IMG_URL: "",
+  BACKGROUND_IMG_URL: "/public/back.jpg",
   /**
    * ICP 备案号，留空不显示
    */
